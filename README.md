@@ -10,7 +10,7 @@ Repositoorium on mõeldud toetamaks üliõpilast kursuse jooksul oma API arendam
 
 ## Teemad
 
--   [API](https://github.com/taaniel123/tluhk_programmeerimine-2/blob/main/loengud/loeng1.md)
+-   [API](https://github.com/taaniel123/tluhk_programmeerimine-2/main/loengud/loeng1.md)
 -   [NodeJS](teemad/nodejs.md)
 -   [NPM](teemad/npm.md)
 -   [JSON](teemad/json.md)
